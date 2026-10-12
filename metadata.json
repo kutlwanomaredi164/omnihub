@@ -1,0 +1,6 @@
+{
+  "name": "OmniRoute AI - Omnichannel Message Routing Hub",
+  "description": "Unified AI-powered omnichannel inbox connecting WhatsApp, Instagram, TikTok, Gmail, Outlook, and Messenger with real-time classification, routing, and executive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
